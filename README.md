@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/JulianLivrone/Social-proof-section)
-- Live Site URL: [Live site URL here](https://julianlivrone.github.io/Social-proof-section/)
+- Solution URL: [Solution URL here](https://github.com/JulianLivrone/Huddle-landing-page-with-single-introductory-section)
+- Live Site URL: [Live site URL here](https://julianlivrone.github.io/Huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
